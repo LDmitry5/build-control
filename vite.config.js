@@ -30,7 +30,7 @@ const manifest = {
   description: "Приложение для мониторинга строительных площадок",
   name: "PWA-BuildControl",
   short_name: "BC-PWA",
-  start_url: "/",
+  start_url: "https://LDmitry5.github.io/build-control",
 };
 
 // https://vite.dev/config/
