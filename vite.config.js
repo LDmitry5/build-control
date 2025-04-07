@@ -48,5 +48,5 @@ export default defineConfig({
       manifest: manifest,
     }),
   ],
-  base: "/build-control",
+  base: "/build-control/",
 });
